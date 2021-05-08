@@ -1,0 +1,4 @@
+commands 
+dig youtube.com
+adduser and group user
+hiddeneye installation
